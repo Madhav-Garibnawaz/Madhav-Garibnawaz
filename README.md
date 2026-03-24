@@ -62,6 +62,14 @@ I'm always improving by working on real projects and learning step by step.
 
 [![](https://visitcount.itsvg.in/api?id=Madhav-Garibnawaz&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Madhav-Garibnawaz/Madhav-Garibnawaz/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36BCF7&height=120&section=footer"/>
 </p>
